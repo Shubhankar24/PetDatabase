@@ -84,5 +84,4 @@ Make sure you have the following installed:
 ├── Program.cs
 └── PetManagementSystem.csproj  </pre>
 
-## 📬 Contact
-Created by **Shubhankar Gupta**
+
