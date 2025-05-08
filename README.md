@@ -62,7 +62,7 @@ Make sure you have the following installed:
 - Update-Database
 
 
-<pre> ```### 🐾PetManagementSystem/
+<pre> ### 🐾PetManagementSystem/
 │
 ├── Controllers/
 │   └── PetsController.cs
@@ -82,7 +82,7 @@ Make sure you have the following installed:
 │
 ├── appsettings.json
 ├── Program.cs
-└── PetManagementSystem.csproj ``` </pre>
+└── PetManagementSystem.csproj  </pre>
 
 ## 📬 Contact
 Created by **Shubhankar Gupta**
