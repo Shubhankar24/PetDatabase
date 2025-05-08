@@ -62,7 +62,27 @@ Make sure you have the following installed:
 - Update-Database
 
 
-<pre> ```text ### 🐾 PetManagementSystem/ │ ├── Controllers/ │ └── PetsController.cs │ ├── Models/ │ └── Pet.cs │ ├── Views/ │ ├── Pets/ │ │ ├── Index.cshtml │ │ ├── Create.cshtml │ │ ├── Edit.cshtml │ │ └── Delete.cshtml │ ├── Data/ │ └── ApplicationDbContext.cs │ ├── appsettings.json ├── Program.cs └── PetManagementSystem.csproj ``` </pre>
+<pre> ```### 🐾PetManagementSystem/
+│
+├── Controllers/
+│   └── PetsController.cs
+│
+├── Models/
+│   └── Pet.cs
+│
+├── Views/
+│   ├── Pets/
+│   │   ├── Index.cshtml
+│   │   ├── Create.cshtml
+│   │   ├── Edit.cshtml
+│   │   └── Delete.cshtml
+│
+├── Data/
+│   └── ApplicationDbContext.cs
+│
+├── appsettings.json
+├── Program.cs
+└── PetManagementSystem.csproj ``` </pre>
 
 ## 📬 Contact
 Created by **Shubhankar Gupta**
